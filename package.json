@@ -1,0 +1,18 @@
+{
+  "name": "goodbycssid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suisho",
+  "license": "ISC",
+  "dependencies": {
+    "deep-diff": "^0.3.0",
+    "diff": "^1.2.1",
+    "postcss": "^4.0.1",
+    "power-assert": "^0.10.1",
+    "sort-specificity": "^0.2.0"
+  }
+}
